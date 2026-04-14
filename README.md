@@ -1,5 +1,5 @@
 # CyberSecurity_Bot
-# BIMO - My Cybersecurity Awareness Bot 🤖
+# BIMO - My Cybersecurity Awareness Bot 
 
 ## Hi there! Let me tell you about myself...
 
