@@ -120,14 +120,6 @@ BIMO: Stay safe online, Sarah! Remember, cybersecurity is everyone's
 responsibility. Goodbye! 👋
 ```
 
-## Why I'm Helpful 🌟
-
-- **I speak your language** - No technical jargon, just plain English
-- **I'm patient** - Ask me the same question 100 times, I don't mind
-- **I'm focused** - I stick to cybersecurity (what I know best)
-- **I'm friendly** - I use emojis and a warm tone
-- **I remember you** - I use your name throughout our chat
-
 ## A Few Things To Know 📝
 
 - I'm **not** a real AI - I'm a rule-based chatbot (I respond to specific commands)
@@ -141,10 +133,6 @@ responsibility. Goodbye! 👋
 - Keep your questions short and specific
 - Type `help` anytime you're stuck
 - Don't be shy - I'm here to help!
-
-## Made With ❤️
-
-I was created by cybersecurity experts who wanted to make online safety education more fun and accessible. No complicated manuals, no boring lectures - just a friendly bot ready to chat!
 
 ---
 
