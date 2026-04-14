@@ -84,7 +84,7 @@ I'm pretty understanding:
 4. (Optional) Add a `greeting.wav` file for my voice greeting
 5. Press F5 and we're ready to chat!
 
-## What Happens When You Run Me 🎬
+## What Happens When You Run Me 
 
 1. **Logo Display** - You'll see my cool ASCII art logo in purple
 2. **Voice Greeting** - I'll say "Hello! Welcome to the Cybersecurity Awareness bot"
