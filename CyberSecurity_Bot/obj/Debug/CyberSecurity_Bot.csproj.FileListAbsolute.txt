@@ -1,0 +1,8 @@
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\bin\Debug\CyberSecurity_Bot.exe.config
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\bin\Debug\CyberSecurity_Bot.exe
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\bin\Debug\CyberSecurity_Bot.pdb
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\obj\Debug\CyberSecurity_Bot.csproj.AssemblyReference.cache
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\obj\Debug\CyberSecurity_Bot.csproj.CoreCompileInputs.cache
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\obj\Debug\CyberSecurity_Bot.exe
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\obj\Debug\CyberSecurity_Bot.pdb
+C:\Users\keabe\source\repos\CyberSecurity_Bot\CyberSecurity_Bot\bin\Debug\greeting.wav
