@@ -5,7 +5,7 @@
 
 I'm **BIMO** (that's short for Cybersecurity Awareness Bot), and I was created to help people like you stay safe online! Think of me as your friendly digital bodyguard who's always ready to share tips and answer questions about cybersecurity.
 
-## What Can I Do For You? 🛡️
+## What Can I Do For You? 
 
 I'm pretty good at explaining cybersecurity topics in simple terms. Here's what I can help you with:
 
